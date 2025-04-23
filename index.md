@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
-
+# Hello friends
+## Welcome to my project
